@@ -11,7 +11,7 @@ You can contact me via my [email](mailto:elias.jorgensen2006@gmail.com) or on di
 | **Languages**     | TypeScript, C++       |
 | **Frameworks**    | Next.js, TailwindCSS  |
 | **IDE**           | Neovim                |
-| **OS**            | Ubuntu 23.04          |
+| **OS**            | Ubuntu 23.10          |
 
 ## Projects
 *No particular order*
