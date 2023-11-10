@@ -13,6 +13,7 @@ You can contact me via my [email](mailto:elias.jorgensen2006@gmail.com) or on di
 | **IDE**           | Neovim                |
 | **OS**            | Ubuntu 23.10          |
 | **Case**          | snake_case            |
+| **Color Scheme**  | Catppuccin Mocha      |
 
 ## Projects
 *No particular order*
