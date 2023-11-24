@@ -21,7 +21,7 @@ You can contact me via my [email](mailto:elias.jorgensen2006@gmail.com) or on di
 | --------------------------------------------------------------------- | --------------------------------------------------------- | ------------- | ----------------------------- | --------------------- |
 | [Three SVG](https://github.com/saile515/three-svg)                    | Render 3D scenes to SVG.                                  | CLI           | Active, No release            | Useful                |
 | [bfc](https://github.com/saile515/bfc)                                | Compile brainfuck for Linux.                              | CLI           | Active, Working release       | Useful                |
-| [Web Crawler](https://github.com/saile515/web-crawler)                | Crawls the web for domain names.                          | CLI           | Active, Working prototype     | Just for fun          |
+| [bok-databas](https://github.com/saile515/bok-databas)                | Database of books ranked on difficulity.                  | Website       | Active, No release            | Useful                |
 | [Web Docs](https://github.com/saile515/web-docs)                      | Documentation site for web technologies.                  | Website       | Finished, Working prototype   | School assignment     |
 | [eliasjorgensen.se](https://github.com/saile515/portfolio)            | My website.                                               | Website       | On hold, Working release      | Useful                |
 | [CLI Video Player](https://github.com/saile515/cli-video-player)      | Play videos in Linux terminal.                            | CLI           | Finished, Working prototype   | Just for fun          |
