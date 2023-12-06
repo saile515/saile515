@@ -1,4 +1,4 @@
-# Hello, I am Elias Jörgensen (saile515) 👋
+# Hello, I am Elias Jörgensen 👋
 
 ## About
 I am a 17 year old student from Sweden. I work mainly with web and system development. In addition to programming, I also enjoy listening to metal music and playing electric guitar.
