@@ -21,6 +21,7 @@ You can contact me via my [email](mailto:elias.jorgensen2006@gmail.com) or on di
 | --------------------------------------------------------------------- | --------------------------------------------------------- | ------------- | ----------------------------- | --------------------- |
 | [Three SVG](https://github.com/saile515/three-svg)                    | Render 3D scenes to SVG.                                  | CLI           | Active, No release            | Useful                |
 | [bok-databas](https://github.com/saile515/bok-databas)                | Database of books ranked on difficulity.                  | Website       | Active, No release            | Useful                |
+| [llll](https://github.com/saile515/llll)                              | Compiled programming language for Linux.                  | Compiler      | Active, No release            | Just for fun          |
 | [bfc](https://github.com/saile515/bfc)                                | Compile brainfuck for Linux.                              | CLI           | On hold, Working release      | Useful                |
 | [Web Docs](https://github.com/saile515/web-docs)                      | Documentation site for web technologies.                  | Website       | Finished, Working prototype   | School assignment     |
 | [eliasjorgensen.se](https://github.com/saile515/portfolio)            | My website.                                               | Website       | On hold, Working release      | Useful                |
