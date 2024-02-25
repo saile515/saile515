@@ -20,7 +20,6 @@ You can contact me via my [email](mailto:elias.jorgensen2006@gmail.com) or on di
 | Name                                                                  | Description                                               | Category      | Development Status            | Usefulness            |
 | --------------------------------------------------------------------- | --------------------------------------------------------- | ------------- | ----------------------------- | --------------------- |
 | [Twodo](https://github.com/saile515/twodo)                            | Minimal data-oriented 2D engine built on WebGL.           | Engine        | Active, Alpha release         | Useful                |
-| [bok-databas](https://github.com/saile515/bok-databas)                | Database of books ranked on difficulity.                  | Website       | Active, No release            | Useful                |
 | [eliasjorgensen.se](https://github.com/saile515/portfolio)            | My portfolio website, including my blog.                  | Website       | Active, Working release       | Useful                |
 | [llll](https://github.com/saile515/llll)                              | Compiled programming language for Linux.                  | Compiler      | Active, No release            | Just for fun          |
 | [Three SVG](https://github.com/saile515/three-svg)                    | Render 3D scenes to SVG.                                  | CLI           | On hold, Working prototype    | Useful                |
