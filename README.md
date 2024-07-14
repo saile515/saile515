@@ -1,7 +1,7 @@
 # Hello, I am Elias Jörgensen 👋
 
 ## About
-I am a 18 year old student from Sweden. I work mainly with web and system development. In addition to programming, I also enjoy listening to metal music and playing electric guitar.
+I am an 18 year old developer from Sweden, currently working at SkyTech AB. I work mainly with web and system development. In addition to programming, I also enjoy listening to metal music and playing electric guitar.
 
 You can contact me via my [email](mailto:elias.jorgensen2006@gmail.com) or on discord `saile515`.
 
