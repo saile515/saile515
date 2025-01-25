@@ -9,7 +9,7 @@ You can contact me via my [email](mailto:elias.jorgensen2006@gmail.com) or on di
 | Category          | Favorite(s)           |
 | ----------------- | --------------------- |
 | **Languages**     | C++, TypeScript       |
-| **Frameworks**    | SvelteKit, TailwindCSS|
+| **Frameworks**    | React, TailwindCSS|
 | **IDE**           | Neovim                |
 | **OS**            | Fedora 41             |
 | **Case**          | snake_case            |
