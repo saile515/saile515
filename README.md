@@ -8,10 +8,10 @@ You can contact me via my [email](mailto:elias.jorgensen2006@gmail.com) or on di
 ### Favorites
 | Category          | Favorite(s)           |
 | ----------------- | --------------------- |
-| **Languages**     | C++, TypeScript       |
-| **Frameworks**    | React, TailwindCSS|
+| **Languages**     | TypeScript, C, C++    |
+| **Frameworks**    | React, TailwindCSS    |
 | **IDE**           | Neovim                |
-| **OS**            | Fedora 41             |
+| **OS**            | Fedora 42             |
 | **Case**          | snake_case            |
 | **Color Scheme**  | Nord                  |
 
@@ -19,10 +19,10 @@ You can contact me via my [email](mailto:elias.jorgensen2006@gmail.com) or on di
 *No particular order*
 | Name                                                                  | Description                                               |
 | --------------------------------------------------------------------- | --------------------------------------------------------- |
-| [Twodo](https://github.com/saile515/twodo)                            | Minimal data-oriented 2D engine built on WebGL.           |
-| [eliasjorgensen.se](https://github.com/saile515/portfolio)            | My portfolio website, including my blog.                  |
-| [llll](https://github.com/saile515/llll)                              | Compiled programming language for Linux.                  |
 | [Three SVG](https://github.com/saile515/three-svg)                    | Render 3D scenes to SVG.                                  |
+| [Twodo](https://github.com/saile515/twodo)                            | Minimal data-oriented 2D engine built on WebGL.           |
+| [eliasjorgensen.se](https://github.com/saile515/portfolio)            | My portfolio website.                                     |
+| [llll](https://github.com/saile515/llll)                              | Compiled programming language for Linux.                  |
 | [bfc](https://github.com/saile515/bfc)                                | Compile brainfuck for Linux.                              |
 | [CLI Video Player](https://github.com/saile515/cli-video-player)      | Play videos in Linux terminal.                            |
 | [templtr](https://github.com/saile515/templtr)                        | Framework for statically generating dynamic html pages.   |
