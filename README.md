@@ -21,6 +21,7 @@ You can contact me via my [email](mailto:elias.jorgensen2006@gmail.com) or on di
 | --------------------------------------------------------------------- | --------------------------------------------------------- |
 | [Three SVG](https://github.com/saile515/three-svg)                    | Render 3D scenes to SVG.                                  |
 | [Twodo](https://github.com/saile515/twodo)                            | Minimal data-oriented 2D engine built on WebGL.           |
+| [RadonOS](https://github.com/saile515/RadonOS)                        | Work-in-progress 32-bit OS for x86.                       |
 | [eliasjorgensen.se](https://github.com/saile515/portfolio)            | My portfolio website.                                     |
 | [llll](https://github.com/saile515/primo)                             | Compiled programming language using LLVM.                 |
 | [bfc](https://github.com/saile515/bfc)                                | Compile brainf*ck for Linux.                              |
