@@ -10,7 +10,7 @@ You can contact me via my [email](mailto:elias.jorgensen2006@gmail.com) or on di
 | ----------------- | --------------------- |
 | **Languages**     | TypeScript, C, C#     |
 | **Frameworks**    | React, TailwindCSS    |
-| **IDE**           | VSCode, Neovi         |
+| **IDE**           | VSCode, Neovim        |
 | **OS**            | Arch (btw) 	          |
 | **Case**          | snake_case            |
 | **Color Scheme**  | Nord                  |
